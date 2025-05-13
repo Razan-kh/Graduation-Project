@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Planly">Planly</string>
+    <string name="gcm_defaultSenderId" translatable="false">647183610468</string>
+    <string name="google_api_key" translatable="false">AIzaSyCglWVNiIC6ZJobeN_q38pqTTZBZepRaLY</string>
+    <string name="google_app_id" translatable="false">1:647183610468:android:e71994575ba2587279e571</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCglWVNiIC6ZJobeN_q38pqTTZBZepRaLY</string>
+    <string name="google_storage_bucket" translatable="false">planly-f00b7.firebasestorage.app</string>
+    <string name="project_id" translatable="false">planly-f00b7</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>
